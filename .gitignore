@@ -1,0 +1,4 @@
+env/Lib/site-packages/*
+env/Scripts/*
+env/share/*
+env/pyvenv.cfg
